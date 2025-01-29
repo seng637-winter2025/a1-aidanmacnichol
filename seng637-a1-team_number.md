@@ -4,7 +4,7 @@
 
 | Group: Group Number      |
 |-----------------|
-| Student 1 name                |   
+| Student 1: Aidan MacNichol |   
 | Student 2 name              |   
 | Student 3 name               |   
 | Student 4 name                |   
@@ -33,8 +33,10 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+This lab is meant as an introduction to testing. A simulated ATM System is used as the SUT. Three main types of testing are touched on: 
+1. Exploratory testing
+2. Manual scripted testing
+3. Regression testing
 
 # High-level description of the exploratory testing plan
 
